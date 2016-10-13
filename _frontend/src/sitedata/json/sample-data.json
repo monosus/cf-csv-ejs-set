@@ -1,0 +1,102 @@
+[
+  {
+    "id": "001",
+    "name": "商品A",
+    "description": "ダミーAダミーAダミーAダミーAダミーAダミーA"
+  },
+  {
+    "id": "002",
+    "name": "商品B",
+    "description": "ダミーBダミーBダミーBダミーBダミーBダミーB"
+  },
+  {
+    "id": "003",
+    "name": "商品C",
+    "description": "ダミーCダミーCダミーCダミーCダミーCダミーC"
+  },
+  {
+    "id": "004",
+    "name": "商品D",
+    "description": "ダミーDダミーDダミーDダミーDダミーDダミーD"
+  },
+  {
+    "id": "005",
+    "name": "商品E",
+    "description": "ダミーEダミーEダミーEダミーEダミーEダミーE"
+  },
+  {
+    "id": "006",
+    "name": "商品F",
+    "description": "ダミーFダミーFダミーFダミーFダミーFダミーF"
+  },
+  {
+    "id": "007",
+    "name": "商品G",
+    "description": "ダミーGダミーGダミーGダミーGダミーGダミーG"
+  },
+  {
+    "id": "008",
+    "name": "商品H",
+    "description": "ダミーHダミーHダミーHダミーHダミーHダミーH"
+  },
+  {
+    "id": "009",
+    "name": "商品I",
+    "description": "ダミーIダミーIダミーIダミーIダミーIダミーI"
+  },
+  {
+    "id": "010",
+    "name": "商品J",
+    "description": "ダミーJダミーJダミーJダミーJダミーJダミーJ"
+  },
+  {
+    "id": "011",
+    "name": "商品K",
+    "description": "ダミーKダミーKダミーKダミーKダミーKダミーK"
+  },
+  {
+    "id": "012",
+    "name": "商品L",
+    "description": "ダミーLダミーLダミーLダミーLダミーLダミーL"
+  },
+  {
+    "id": "013",
+    "name": "商品M",
+    "description": "ダミーMダミーMダミーMダミーMダミーMダミーM"
+  },
+  {
+    "id": "014",
+    "name": "商品N",
+    "description": "ダミーNダミーNダミーNダミーNダミーNダミーN"
+  },
+  {
+    "id": "015",
+    "name": "商品O",
+    "description": "ダミーOダミーOダミーOダミーOダミーOダミーO"
+  },
+  {
+    "id": "016",
+    "name": "商品P",
+    "description": "ダミーPダミーPダミーPダミーPダミーPダミーP"
+  },
+  {
+    "id": "017",
+    "name": "商品Q",
+    "description": "ダミーQダミーQダミーQダミーQダミーQダミーQ"
+  },
+  {
+    "id": "018",
+    "name": "商品R",
+    "description": "ダミーRダミーRダミーRダミーRダミーRダミーR"
+  },
+  {
+    "id": "019",
+    "name": "商品S",
+    "description": "ダミーSダミーSダミーSダミーSダミーSダミーS"
+  },
+  {
+    "id": "020",
+    "name": "商品T",
+    "description": "ダミーTダミーTダミーTダミーTダミーTダミーT"
+  }
+]

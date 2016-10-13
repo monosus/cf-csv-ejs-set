@@ -1,0 +1,82 @@
+/* ==========================================================
+ html5 elements
+========================================================== */
+article, aside, figure, figcaption, footer, header, nav, section
+{ display: block;}
+/* ==========================================================
+ reseting
+========================================================== */
+body {
+    line-height: 1.5;
+    font-size: 12px;
+    -webkit-text-size-adjust: 100%;
+    min-width: 320px;
+}
+body, div, pre, p, blockquote, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, th, td, button, figure, figcaption
+{ margin: 0; padding: 0;}
+input, textarea { margin: 0; font-size: 100%;}
+input, textarea, select { -webkit-appearance: none;}
+textarea { resize: none;}
+button { border: none; overflow: visible; background: none; vertical-align: top;  font-size: 100%; color: inherit; cursor: pointer; -webkit-appearance: none;}
+label { cursor: pointer;}
+table { border-collapse: collapse; border-spacing: 0; font-size: 100%;}
+caption, th { text-align: left;}
+fieldset, img { border: 0;}
+img { height: auto; vertical-align: top;}
+address, caption, code, em, th { font-style: normal; font-weight: normal;}
+ol, ul { list-style: none;}
+h1, h2, h3, h4, h5, h6, strong, em
+{ font-size: 100%; font-weight: normal;}
+sup, sub { font-size: 63%;}
+sup { vertical-align: top;}
+sub { vertical-align: baseline;}
+* { box-sizing: border-box;}
+/* link */
+a { text-decoration: none;}
+/* img */
+img { width: 100%; height: auto; max-width: 100%;}
+
+.header {
+    position: relative;
+    width: 100%;
+    padding: 20px 10px;
+    background: linear-gradient(135deg, rgba(255,174,39,1) 0%,rgba(222,73,109,1) 100%);
+    border-bottom: 1px solid #eee;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.contents {
+    width: 960px;
+    padding: 50px 10px;
+    margin: 0 auto;
+    min-height: 500px;
+}
+
+.footer {
+    background-color: #000;
+    padding: 40px 10px;
+    color: #fff;
+    font-weight: bold;
+    color: #18px;
+    text-align: center;
+}
+
+.ttl-name {
+    padding: 0 10px 0.3em 10px;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid #2F6FAD;
+}
+.id {
+    display: inline-block;
+    padding: 5px;
+    margin-bottom: 0.5em;
+    border: 1px solid #e87d0d;
+    font-weight: bold;
+    color: #666;
+    line-height: 1.1;
+}
